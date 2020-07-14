@@ -1,6 +1,6 @@
 ## About Me
 
-I am sishenhei7, also called candybullet, a web developer in China, ShenZhen. I majored in math at SWJT university.  I mainly use Vue to develop, and now I try to develop with koa.
+I am sishenhei7, also called candybullet, a web developer in China, ShenZhen, majored in math at SWJT university. I mainly use Vue to develop, and now I try to develop with koa.
 
 ### Facts
 
