@@ -9,7 +9,8 @@ I am sishenhei7, also called candybullet, a web developer in China, ShenZhen, ma
 
 ### Get in touch
 
-Reach me at 1417145026 on qq or yangzhou33 on wechat.
+- Reach me at 1417145026 on qq or yangzhou33 on wechat.
+- [@sishenhei7](https://twitter.com/sishenhei7)
 
 <!--
 **sishenhei7/sishenhei7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
