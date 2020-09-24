@@ -5,7 +5,7 @@ I am sishenhei7, also called candybullet, a web developer in China, ShenZhen, ma
 ### Facts
 
 - Pronouns: he/him
-- Hobbies: reading, cartoons, drawing
+- Hobbies: coding, reading, cartoons, drawing
 
 ### Get in touch
 
