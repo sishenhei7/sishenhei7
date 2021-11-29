@@ -11,7 +11,7 @@ I am sishenhei7, also called candybullet, a web developer in China, ShenZhen, ma
 
 - Reach me at 1417145026 on qq or yangzhou33 on wechat.
 - [@sishenhei7](https://twitter.com/sishenhei7)
-- resume: https://hacknical.com/sishenhei7/resume?locale=zh(https://hacknical.com/sishenhei7/resume?locale=zh)
+- resume(个人简历)(https://hacknical.com/sishenhei7/resume?locale=zh)
 
 <!--
 **sishenhei7/sishenhei7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
