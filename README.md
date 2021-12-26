@@ -7,12 +7,16 @@ I am sishenhei7, also called candybullet, a web developer in China, ShenZhen, ma
 - Pronouns: he/him
 - Hobbies: coding, reading, cartoons, drawing
 
+### Others
+
+- [leetcode](https://leetcode-cn.com/u/sishenhei7/)
+- [resume(个人简历)](https://hacknical.com/sishenhei7/resume?locale=zh)
+
 ### Get in touch
 
 - Reach me at 1417145026 on qq or yangzhou33 on wechat.
 - [@sishenhei7](https://twitter.com/sishenhei7)
-- [leetcode](https://leetcode-cn.com/u/sishenhei7/)
-- [resume(个人简历)](https://hacknical.com/sishenhei7/resume?locale=zh)
+
 
 <!--
 **sishenhei7/sishenhei7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
