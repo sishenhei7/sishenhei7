@@ -9,6 +9,7 @@ I am sishenhei7, also called candybullet, a web developer in China, ShenZhen, ma
 
 ### Others
 
+- [每天进步一点点daily progress](https://github.com/sishenhei7/daily-progress/)
 - [leetcode](https://leetcode-cn.com/u/sishenhei7/)
 - [resume(个人简历)](https://hacknical.com/sishenhei7/resume?locale=zh)
 
